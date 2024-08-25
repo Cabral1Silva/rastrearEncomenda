@@ -9,10 +9,10 @@ Este projeto permite o rastreamento de encomendas em tempo real. Insira o códig
 Confira o protótipo do Figma abaixo para ter uma visão geral do design e das funcionalidades da aplicação:
 
 ### 🏠 Tela Principal
-![Tela Principal](https://link-para-sua-imagem/tela-principal.png)
+![Tela Principal](https://raw.githubusercontent.com/Cabral1Silva/rastrearEncomenda/master/img/telaprincipal.jpg)
 
 ### 📦 Tela de Detalhes da Encomenda
-![Tela de Detalhes](https://link-para-sua-imagem/tela-detalhes.png)
+![Tela de Detalhes](https://raw.githubusercontent.com/Cabral1Silva/rastrearEncomenda/master/img/paginaRastreamento.png)
 
 ### 🕒 Tela de Registro de Ocorrências
 ![Registro de Ocorrências](https://link-para-sua-imagem/tela-historico.png)
