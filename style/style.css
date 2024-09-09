@@ -85,7 +85,7 @@ a:hover{
 
     height: 150px;
     width: 250px;
-    background-color: red;
+    
 
 }
 
@@ -122,5 +122,26 @@ a:hover{
     border-radius: 100%;
     background-color: rgb(99, 100, 99);
     margin-top:40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
 }
+img{
+    height: 80px;
+    width: 80px;
+}
+
+.active-concluido{
+
+    background-color: green;
+    
+}
+
+.active-erro{
+
+    background-color: red;
+    
+}
+
+
